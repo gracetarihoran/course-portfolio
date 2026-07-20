@@ -40,4 +40,4 @@ This portfolio is intended to document academic progress in programming, data an
 ## Contact me
 Grace Tarihoran </br>
 <gracetarihoran@gmail.com> </br>
-[LinkedIn](www.linkedin.com/in/gracetarihoran)
+[LinkedIn](https://www.linkedin.com/in/gracetarihoran)
